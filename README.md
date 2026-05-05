@@ -1,16 +1,10 @@
 # Hi there, I'm Shahkzod! 👋
 
-<p align="left">
-<a href="https://github.com">
-  <img src="https://herokuapp.com" alt="Typing SVG" />
-</a>
-</p>
-
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on my coding skills
-- 🌱 I’m currently learning Python/Web Development
+- 🌱 I’m currently learning **Python/Web Development**
 - 📫 How to reach me: [soktamov581@gmail.com](mailto:soktamov581@gmail.com)
-- ⚡ Fun fact: I have a strong background in Mathematics and English, and I am currently taking extra courses to further sharpen my skills.
+- ⚡ Fun fact: I have a strong background in **Mathematics** and **English**, and I am currently taking extra courses to further sharpen my skills.
 
 ### 🛠️ Tech Stack
 <p align="left">
