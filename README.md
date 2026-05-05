@@ -1,4 +1,4 @@
-# Hi there, I'm Shahkzod! 👋
+# Hi there, I'm Shakhzod! 👋
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on my coding skills
