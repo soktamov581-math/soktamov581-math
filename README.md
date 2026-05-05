@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Shahkzod! 👋
 
-<!--
-**soktamov581-math/soktamov581-math** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://github.com">
+  <img src="https://herokuapp.com" alt="Typing SVG" />
+</a>
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🔭 I’m currently working on my coding skills
+- 🌱 I’m currently learning Python/Web Development
+- 📫 How to reach me: [soktamov581@gmail.com](mailto:soktamov581@gmail.com)
+- ⚡ Fun fact: I have a strong background in Mathematics and English, and I am currently taking extra courses to further sharpen my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://vercel.app" />
+  <img height="180em" src="https://vercel.app" />
+</p>
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
+
+<p align="right">
+  <img src="https://komarev.com" alt="Views" />
+</p>
