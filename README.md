@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Python+Basics+Learner;National+Math+Certificate+Candidate;Advanced+English+Speaker;Dedicated+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Python+Basics+Learner;National+Math+Certificate+Candidate;Advanced+English+Speaker;C%2B%2B+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,25 +10,23 @@
 
 ### 🧠 About Me
 * 🐍 **Python:** Currently mastering core syntax and logical structures.
-* 📐 **Mathematics:** Preparing for the **National Certificate (BMBA)**. Deep diving into complex algebra and geometry.
-* 🌍 **English:** Advanced proficiency, comfortable with technical documentation and global communication.
-* 🎯 **Goal:** To bridge the gap between advanced academic mathematics and software engineering.
+* ⚙️ **C++:** Exploring algorithmic efficiency and system logic.
+* 📐 **Mathematics:** Preparing for the **National Certificate (BMBA)**.
+* 🌍 **English:** Advanced proficiency in technical and general communication.
 
 ---
 
 ### 🛠 Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,git,vscode,github,md" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,cpp,html,css,vscode,github,git" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=dark&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soktamov&show_icons=true&theme=visual_studio_code&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soktamov&layout=compact&theme=visual_studio_code" />
 </p>
 
 ---
@@ -46,5 +44,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF7F&height=100&section=footer&text=Education%20is%20the%20key%20to%20success&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=42A5F5&height=100&section=footer&text=Code%20.%20Math%20.%20Success&fontSize=30" />
 </p>
