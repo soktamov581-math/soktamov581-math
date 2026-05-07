@@ -24,9 +24,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Soktamov's GitHub stats](https://github-readme-stats.vercel.app/api?username=soktamov581-math&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=soktamov581-math&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soktamov581-math&layout=compact&theme=radical)
 
 
 ---
