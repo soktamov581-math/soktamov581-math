@@ -17,9 +17,8 @@
 ---
 
 ### 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,html,css,vscode,github,git" />
-</p>
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=soktamov581-math&layout=compact&theme=radical)
+
 
 ---
 
