@@ -24,10 +24,10 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soktamov&show_icons=true&theme=visual_studio_code&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soktamov&layout=compact&theme=visual_studio_code" />
-</p>
+![Soktamov's GitHub stats](https://github-readme-stats.vercel.app/api?username=soktamov581-math&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soktamov581-math&layout=compact&theme=radical)
+
 
 ---
 
