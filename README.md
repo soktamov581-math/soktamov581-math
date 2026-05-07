@@ -25,6 +25,9 @@
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=soktamov581-math&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=soktamov581-math&layout=compact&theme=radical)
+
+
 
 
 ---
