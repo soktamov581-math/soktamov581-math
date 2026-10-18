@@ -12,7 +12,7 @@
 * 🐍 **Python:** Currently mastering core syntax and logical structures.
 * ⚙️ **C++:** Exploring algorithmic efficiency and system logic.
 * 📐 **Mathematics:** Preparing for the **National Certificate (BMBA)**.
-* 🌍 **English:** Advanced proficiency in technical and general communication.
+* 🌍 **English:** B2 level candidate.
 
 ---
 
